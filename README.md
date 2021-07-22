@@ -1,3 +1,5 @@
+![Cogs](https://github.com/jksprattler/jksprattler/blob/main/cogs1.jpg)
+
 You can also find me on:
 
 - [Jenna's Runbooks | Technical Blog](https://jksprattler.github.io/jennas-runbooks/)
