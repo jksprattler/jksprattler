@@ -10,7 +10,7 @@ Hi there 👋 I'm a former hybrid network engineer transformed Cloud & SRE engin
 | **1. Platform & AI Infrastructure** | Model runtimes (vLLM, MLX, WASM), K8s, kernel tuning |
 | **2. MLOps & Reliability** | Terraform IaC, FinOps, security, automation |
 | **3. Cloud Architectures** | Multi-cloud blueprints & system design |
-| **4. DevEx (Developer Experience)** | Boto3/CLI utilities, agentic workflows |
+| **4. DevEx (Developer Experience)** | CLI utilities, agentic workflows |
 
 ---
 
