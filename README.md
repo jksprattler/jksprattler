@@ -1,7 +1,7 @@
 ![Cogs](https://github.com/jksprattler/jksprattler/blob/main/cogs1.jpg)
 
 ## About Me 
-Hi there 👋 I'm a prior hybrid network engineer transformed cloud engineer, and I enjoy writing posts about my technical journey including implementation guides, insights, tips, scripts and graphics from what I've gleaned along the way.
+Hi there 👋 I'm a former hybrid network engineer transformed Cloud & SRE engineer, documenting my transition into AI/ML Platform Engineering. I write technical deep-dives, hands-on implementation guides, CLI helper scripts, and visual architectures covering cloud, infrastructure, orchestration, governance, and modern AI runtimes.
 
 ## Let's Connect
 
