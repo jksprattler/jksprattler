@@ -1,5 +1,5 @@
 ## 🛠️ About Me
-Hi there 👋 I'm a former hybrid network engineer transformed Cloud & SRE engineer, documenting my transition into AI/ML Platform Engineering. I write technical deep-dives, hands-on implementation guides, CLI helper scripts, and visual architectures covering cloud, infrastructure, orchestration, governance, and modern AI runtimes.
+Hi there 👋 I'm a Cloud Engineer & SRE, documenting my transition into AI/ML Platform Engineering. I write technical deep-dives, hands-on implementation guides, CLI helper scripts, and visual architectures covering cloud, infrastructure, orchestration, governance, and modern AI runtimes.
 
 ---
 
@@ -22,10 +22,12 @@ Hi there 👋 I'm a former hybrid network engineer transformed Cloud & SRE engin
 ![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
