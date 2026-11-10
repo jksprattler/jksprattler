@@ -13,7 +13,7 @@ I write technical deep dives, hands-on implementation guides, CLI helper scripts
 | Project | What it does | Links |
 | :--- | :--- | :--- |
 | **ConsoleTrack** | Catches out-of-band AWS changes, links them to EKS incidents, and triages with a read-only AI agent over two MCP servers. One evaluated auto-fix behind a validator, dry run, and rollback | [Demo](https://consoletrack-demo.jennasrunbooks.com) · [Video](https://youtu.be/dhfp_0nMhyo) · [Repo](https://github.com/jennasrunbooks/consoletrack) |
-| **FaultTrack** | Classifies microservice faults (CPU, memory, disk, socket, delay, loss) from metrics, with leakage-safe grouped evaluation and an honest cross-system generalization result | [Repo](https://github.com/jennasrunbooks/faulttrack) |
+| **FaultTrack** | Classifies microservice faults (CPU, memory, disk, socket, delay, loss) from metrics, with leakage-safe grouped evaluation and cross-system generalization result | [Repo](https://github.com/jennasrunbooks/faulttrack) |
 | **PathTrack** *(in progress)* | Predicts a speed test's final throughput from its first second, on an AWS ML pipeline (SageMaker, EKS) | Coming January 2027 |
 
 **Earlier work**
