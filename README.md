@@ -4,7 +4,7 @@ Hi there 👋 I'm a Cloud Engineer & SRE with 10+ years in infrastructure, relia
 
 I write technical deep dives, hands-on implementation guides, CLI helper scripts, and architecture diagrams covering cloud, Kubernetes, MLOps, and AI runtimes.
 
-📂 **Portfolio:** [blog.jennasrunbooks.com/pages/projects](https://blog.jennasrunbooks.com/pages/projects)
+📂 **Portfolio:** [blog.jennasrunbooks.com/page/projects](https://blog.jennasrunbooks.com/page/projects)
 
 ---
 
