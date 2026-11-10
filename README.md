@@ -98,7 +98,7 @@ I write technical deep dives, hands-on implementation guides, CLI helper scripts
 
 ## 🌐 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-1B2A3A?style=for-the-badge)](https://blog.jennasrunbooks.com/pages/projects)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-1B2A3A?style=for-the-badge)](https://blog.jennasrunbooks.com/page/projects)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.jennasrunbooks.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennasprattler)
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jennasrunbooks)
